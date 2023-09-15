@@ -1,4 +1,4 @@
-#Pre-Requirements
+# Pre-Requirements
 
  - Honkai Star Rail (Duh)
  - Windows Terminal (Pre-Installed on Windows 11) - Download From the [Microsoft Store](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
